@@ -47,7 +47,7 @@ public class SistemaBiblioteca {
             System.out.print("Seleccione una opción: ");
 
             int opcion = scanner.nextInt();
-            scanner.nextLine(); // Limpiar el salto de línea
+            scanner.nextLine(); 
 
             switch (opcion) {
                 case 1:
